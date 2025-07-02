@@ -57,74 +57,67 @@ Python • Bash • SQL • HTML/CSS/JavaScript
 
 | 💼 Project | Description | Link |
 |-----------|-------------|------|
-| 🔐 **PassShield Password Manager** | Custom Python-Tkinter app that stores passwords locally using JSON and hashing. *(University Project)* | [Repo](https://github.com/Petrasec2025/passshield-manager) |
-| 🐍 **Python Vending Machine** | CLI-based Python vending system for logic practice. *(University Project)* | [Repo](https://github.com/Petrasec2025/python-vending-machine) |
-| 📂 **PotterDB API Task** | API integration project using REST for PotterDB — part of university coursework | [Repo](https://github.com/Petrasec2025/potterdb-api-task) |
+| 🔐 **PassShield Password Manager** | Custom Python-Tkinter app that stores passwords locally using JSON and hashing *(University Project)* | [Repo](https://github.com/Petrasec2025/passshield-manager) |
+| 🐍 **Python Vending Machine** | CLI-based Python vending system for logic practice *(University Project)* | [Repo](https://github.com/Petrasec2025/python-vending-machine) |
+| 📂 **PotterDB API Task** | REST API integration project using PotterDB *(University Task)* | [Repo](https://github.com/Petrasec2025/potterdb-api-task) |
 
 ---
 
-### 🔄 Labs & Projects in Progress
+### 🔄 Labs & In-Progress Projects
 
 | ⚙️ Project | Description | Link |
 |-----------|-------------|------|
-| 🟦 **SOC Labs (TryHackMe)** | Blue Team SOC simulations, alert handling & SIEM | [Repo](https://github.com/Petrasec2025/soc-labs) |
-| 🔒 **CEH Labs (EC-Council iLabs)** | CEH v12 labs including recon, scanning, exploitation | [Repo](https://github.com/Petrasec2025/ceh-ilabs) |
-| 🔧 **CompTIA CySA+ Labs** | Blue Team IR, threat hunting & defensive security | [Repo](https://github.com/Petrasec2025/cysa-labs) |
-| 🌐 **Web Dev Portfolio** | Frontend projects and HTML/CSS/JS work | [Repo](https://github.com/Petrasec2025/web-portfolio) |
+| 🟦 **SOC Labs (TryHackMe)** | Blue Team SOC simulations, alert triage & SIEM | [Repo](https://github.com/Petrasec2025/soc-labs) |
+| 🔒 **CEH Labs (EC-Council iLabs)** | Ethical hacking labs (recon, exploit, post-exploit) | [Repo](https://github.com/Petrasec2025/ceh-ilabs) |
+| 🔧 **CompTIA CySA+ Labs** | Threat hunting, incident response & IR defense | [Repo](https://github.com/Petrasec2025/cysa-labs) |
+| 🌐 **Web Dev Portfolio** | Frontend security-focused personal portfolio | [Repo](https://github.com/Petrasec2025/web-portfolio) |
 
 ---
 
 ## 📌 Featured Repositories
 
-> 🔍 Repositories recruiters and hiring managers often look for
-
-- [🟦 SOC Labs (TryHackMe)](https://github.com/Petrasec2025/soc-labs) – *Blue Team Exercises & SIEM Work*  
-- [🔒 CEH Labs – EC-Council](https://github.com/Petrasec2025/ceh-ilabs) – *Certified Ethical Hacking Labs*  
-- [🔧 CompTIA CySA+ Labs](https://github.com/Petrasec2025/cysa-labs) – *Blue Team IR & Threat Simulations*  
-- [🌐 Web Development Portfolio](https://github.com/Petrasec2025/web-portfolio) – *Frontend and Security Projects*  
-- [🔐 PassShield Manager App](https://github.com/Petrasec2025/passshield-manager) – *Python GUI Password Manager*  
-- [🐍 Python Vending Machine](https://github.com/Petrasec2025/python-vending-machine) – *University Python Logic Project*  
-- [📂 PotterDB API](https://github.com/Petrasec2025/potterdb-api-task) – *REST API Integration Project*
+| 🔍 Repository | Focus Area |
+|--------------|------------|
+| [🟦 SOC Labs (TryHackMe)](https://github.com/Petrasec2025/soc-labs) | Blue Team Exercises & SIEM |
+| [🔒 CEH Labs – EC-Council](https://github.com/Petrasec2025/ceh-ilabs) | CEH Recon, Exploit & Labs |
+| [🔧 CompTIA CySA+ Labs](https://github.com/Petrasec2025/cysa-labs) | Threat Detection & IR |
+| [🌐 Web Dev Portfolio](https://github.com/Petrasec2025/web-portfolio) | HTML/CSS/JS Projects |
+| [🔐 PassShield Password Manager](https://github.com/Petrasec2025/passshield-manager) | Python GUI with Encryption |
+| [🐍 Python Vending Machine](https://github.com/Petrasec2025/python-vending-machine) | CLI Python Logic Project |
+| [📂 PotterDB API Task](https://github.com/Petrasec2025/potterdb-api-task) | REST API Integration |
 
 ---
 
 ## 📜 Certifications
 
-| 📘 Certification | Status | Provider | Link |
-|------------------|--------|----------|------|
-| **CompTIA Security+** | ✅ Certified | CompTIA / Edoxi | [🔗 View](https://www.credly.com/badges/e84b2ae0-2e47-4e12-a510-cc27d2e3d2b3) |
-| **Certified Ethical Hacker (CEH)** | ✅ Certified | EC-Council / Edoxi | [🔗 View](https://www.credly.com/badges/2f44e875-038e-4a00-b25e-b3220fbd3ff2) |
-| **Python Development** | ✅ Completed | Bath Spa University | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Python_Development.pdf) |
-| **Web Development** | ✅ Completed | Bath Spa University | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Web_Development.pdf) |
-| **ISO/IEC 27001 Fundamentals** | ✅ Completed | Alison | [🔗 View](https://alison.com/certification/check/7560610613473) |
-| **Cyber Resilience & Digital Forensics** | ✅ Completed | Bath Spa University | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Cyber_Resilience_DF.pdf) |
-| **AI for Cybersecurity** | ✅ Completed | Great Learning | [🔗 View](https://olympus.mygreatlearning.com/courses/128701/certificate) |
-| **CompTIA CySA+** | ⏳ In Training | CompTIA Labs | [🔗 View Training](https://www.comptia.org/certifications/cybersecurity-analyst) |
+| 🧾 Certification | Status | Delivered by | Platform | Link |
+|------------------|--------|---------------|----------|------|
+| CompTIA Security+ | ✅ Certified | Edoxi Training Center | CompTIA | [🔗 View](https://www.credly.com/badges/e84b2ae0-2e47-4e12-a510-cc27d2e3d2b3) |
+| CEH – Ethical Hacker | ✅ Certified | Edoxi Training Center | EC-Council | [🔗 View](https://www.credly.com/badges/2f44e875-038e-4a00-b25e-b3220fbd3ff2) |
+| Python Development | ✅ Completed | Bath Spa University | Sololearn | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Python_Development.pdf) |
+| Web Development | ✅ Completed | Bath Spa University | SoloLearn / YearUp | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Web_Development.pdf) |
+| ISO/IEC 27001 Fundamentals | ✅ Completed | Bath Spa + Alison | Alison Platform | [🔗 View](https://alison.com/certification/check/7560610613473) |
+| Cyber Resilience & Digital Forensics | ✅ Completed | Bath Spa University | LinkedIn + Internal | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Cyber_Resilience_DF.pdf) |
+| AI for Cybersecurity | ✅ Completed | Great Learning | LinkedIn + GL Platform | [🔗 View](https://olympus.mygreatlearning.com/courses/128701/certificate) |
+| CompTIA CySA+ (Training) | ⏳ In Progress | Self-Study + Mentorship | CompTIA | [🔗 View](https://www.comptia.org/certifications/cybersecurity-analyst) |
 
 ---
 
-## 🎓 Education – BSc (Hons) Cybersecurity
+## 🎓 Education – BSc (Hons) Cybersecurity  
+**Bath Spa University RAK | Sep 2023 – Present**
 
-**🎓 Bath Spa University RAK | Sep 2023 – Present**
-
-### ✅ Completed Modules
-- Cybersecurity Fundamentals  
-- CodeLab  
-- Digital Forensics  
-- Computing & Databases (SQL)  
-- Web Development  
-- Cyber Resilience  
-- Artificial Intelligence  
-- Intrusion Detection & Response  
-- Network Administration  
-- Software Engineering  
-
-### ⏳ In Progress / Upcoming
-- Cybercrime Law & Ethics  
-- Securing the Internet of Things  
-- Cyber Offensive & Defensive  
-- Critical Infrastructure Protection  
-- Final Year Research Project
+| ✅ Completed Modules | ⏳ In Progress / Upcoming |
+|----------------------|---------------------------|
+| Cybersecurity Fundamentals | Cybercrime Law & Ethics |
+| CodeLab | Securing the Internet of Things |
+| Digital Forensics | Cyber Offensive Security |
+| Computing & Databases (SQL) | Cyber Defensive Security |
+| Web Development | Critical Infrastructure Protection |
+| Cyber Resilience | Final Year Research Project |
+| Artificial Intelligence | |
+| Intrusion Detection & Response | |
+| Network Administration | |
+| Software Engineering | |
 
 ---
 
@@ -132,7 +125,7 @@ Python • Bash • SQL • HTML/CSS/JavaScript
 
 - 🇲🇿 **Portuguese** – Native  
 - 🇬🇧 **English** – Fluent  
-- 🧠 Currently Learning: Arabic • French • Spanish • Japanese • Chinese • German • Russian
+- 🧠 Learning: Arabic • French • Spanish • Japanese • Chinese • German • Russian
 
 ---
 
@@ -158,4 +151,5 @@ Python • Bash • SQL • HTML/CSS/JavaScript
 ---
 
 > 🛡️ *“Where Cybersecurity Meets the Future” – Petrasec*
+
 
