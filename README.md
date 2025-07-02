@@ -116,14 +116,14 @@ I'm **Petras**, a certified cybersecurity enthusiast with **1+ year of experienc
 
 | Certification | Status | Institution / Platform | View |
 |---------------|--------|-------------------------|------|
-| **CompTIA Security+** | ✅ Certified | Edoxi / CompTIA | [🔗 View](https://www.credly.com/badges/e84b2ae0-2e47-4e12-a510-cc27d2e3d2b3) |
-| **CEH – Certified Ethical Hacker** | ✅ Certified | Edoxi / EC-Council | [🔗 View](https://www.credly.com/badges/2f44e875-038e-4a00-b25e-b3220fbd3ff2) |
-| **MITRE ATT&CK Defender (MAD)** | ✅ Completed | MITRE | [🔗 View](https://www.linkedin.com/posts/petras-cyber_mitre-attck-defender-mad-certification-activity-7162388392702898176-p6Q3) |
+| **CompTIA Security+** | ✅ Certified | Edoxi / CompTIA | [🔗 View](https://drive.google.com/drive/folders/11N-fB97DKPGRtidqU8hnm1sglgeIufG4?usp=sharing) |
+| **CEH – Certified Ethical Hacker** | ✅ Certified | Edoxi / EC-Council | [🔗 View](https://drive.google.com/drive/folders/18Fb6deJjUKAeEklFAfBGXONiqvkyT8UH?usp=sharing) |
+| **MITRE ATT&CK Defender (MAD)** | ✅ Completed | MITRE | [🔗 View](https://drive.google.com/file/d/1cX9GGM_V9hHFP2NtDluYdnBAidoPS4ZI/view?usp=sharing) |
 | **TryHackMe – SOC Level 1** | ✅ Completed | TryHackMe | [🔗 View](https://tryhackme.com/p/Petras20) |
-| **Python Development** | ✅ Completed | Bath Spa University | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Python_Development.pdf) |
-| **Web Development** | ✅ Completed | Bath Spa University | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Web_Development.pdf) |
-| **ISO/IEC 27001 Fundamentals** | ✅ Completed | Alison | [🔗 View](https://alison.com/certification/check/7560610613473) |
-| **Cyber Resilience & DF** | ✅ Completed | Bath Spa University | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Cyber_Resilience_DF.pdf) |
+| **Python Development** | ✅ Completed | Bath Spa University | [🔗 View](https://www.sololearn.com/certificates/CC-QNNYOMFX) |
+| **Web Development** | ✅ Completed | Bath Spa University | [🔗 View](https://www.sololearn.com/certificates/CC-LFTQJIAC) |
+| **ISO/IEC 27001 Fundamentals** | ✅ Completed | Alison | [🔗 View](https://drive.google.com/file/d/1uiXijklEqECT5Z7KJXPVLGCVXMS4JqB4/view?usp=sharing) |
+| **Cyber Resilience & DF** | ✅ Completed | Bath Spa University | [🔗 View](https://drive.google.com/drive/folders/1MGp5on5D4hIWnsaPxIfBo6ROLU3EEEt-?usp=sharing) |
 | **AI for Cybersecurity** | ✅ Completed | GreatLearning | [🔗 View](https://olympus.mygreatlearning.com/courses/128701/certificate) |
 | **CompTIA CySA+ (Training)** | ⏳ In Progress | Self-Study / CompTIA | [🔗 View](https://www.comptia.org/certifications/cybersecurity-analyst) |
 
