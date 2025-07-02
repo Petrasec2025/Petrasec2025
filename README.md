@@ -34,21 +34,44 @@ I'm **Petras**, a certified cybersecurity enthusiast with **1+ year of experienc
 
 ## 🛠️ Skills & Tools
 
-### 🛡️ Blue Team
-- SIEM (Splunk, ELK) • Log Analysis • MITRE ATT&CK • Alert Triage  
-- Incident Response • Digital Forensics • Threat Intelligence
+### 🛡️ Blue Team Skills
 
-### ⚔️ Red Team
-- CEH Techniques • Web App Pentesting (OWASP) • Reconnaissance  
-- Exploitation • Post-Exploitation
+| Skill Area | Tools / Frameworks |
+|------------|---------------------|
+| SIEM & Log Analysis | Splunk, ELK Stack |
+| Threat Intelligence | MITRE ATT&CK, IOC Analysis |
+| Incident Response | IR Playbooks, Reporting |
+| Digital Forensics | Disk Imaging, Artifact Analysis |
+
+### ⚔️ Red Team Skills
+
+| Skill Area | Techniques |
+|------------|-----------|
+| Penetration Testing | CEH Methodologies, Exploitation |
+| Web App Security | OWASP Top 10, Input Validation |
+| Post-Exploitation | Privilege Escalation, Persistence |
+| Reconnaissance | OSINT, Enumeration |
 
 ### 💻 Programming & Scripting
-- Python • Bash • SQL • HTML • CSS • JavaScript
+
+| Language | Use Case |
+|----------|----------|
+| Python | Automation, Scripting |
+| Bash | Linux Admin, Recon Scripts |
+| SQL | Database Queries & Exploits |
+| HTML/CSS/JS | Web Security Projects |
 
 ### 🔧 Tools & Platforms
-- `Kali Linux` • `Wireshark` • `Burp Suite` • `Metasploit` • `Nmap` • `OWASP ZAP`  
-- `TryHackMe` • `Hack The Box` • `EC-Council iLabs` • `CompTIA Labs`  
-- `Visual Studio Code` • `GitHub` • `LetsDefend`
+
+| Category | Tools |
+|---------|-------|
+| Operating Systems | Kali Linux, Parrot OS, Windows |
+| Network Tools | Wireshark, Nmap, Netcat |
+| Web & App Security | Burp Suite, OWASP ZAP, Postman |
+| Exploitation | Metasploit, Hydra |
+| Labs & Practice | TryHackMe, Hack The Box, LetsDefend |
+| IDEs & Platforms | Visual Studio Code, GitHub |
+| Training Platforms | EC-Council iLabs, CompTIA Labs |
 
 ---
 
