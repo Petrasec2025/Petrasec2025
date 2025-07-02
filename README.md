@@ -152,7 +152,7 @@ I'm **Petras**, a certified cybersecurity enthusiast with **1+ year of experienc
 
 | Course | Platform | Link |
 |--------|----------|------|
-| Cyber Incident Response & Digital Forensics | LinkedIn Learning | [🔗 View](https://www.linkedin.com/learning/cyber-incident-response-digital-forensics) |
+| Cyber Incident Response & Digital Forensics | LinkedIn Learning | [🔗 View](https://www.linkedin.com/learning/learning-cyber-incident-response-and-digital-forensics-21598044/overview?contextUrn=urn%3Ali%3Ala_learningPlanV2%3AAEQAAET99moBCnkbgfZeJZIk_op_dbvAa2238Ig&u=42543748) |
 
 ---
 
