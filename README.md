@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Petras Guilherme Kulyumba
 
 🎯 **Cybersecurity Professional | SOC Analyst (Blue Team) – In Progress | Junior Penetration Tester (Red Team)**  
-📍 Ajman, UAE | 🌐 Remote | Hybrid | On-site  
+📍 Dubai, UAE | 🌐 Remote | Hybrid | On-site  
 📩 Email: petrasec.cyber@gmail.com  
 📱 WhatsApp (for work): +971544560861 | 📞 Call: +971503258953  
 🔗 [LinkedIn](https://www.linkedin.com/in/petras-cyber) • [GitHub](https://github.com/Petrasec2025) • [TryHackMe](https://tryhackme.com/p/Petras20)
