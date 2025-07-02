@@ -90,16 +90,16 @@ Python • Bash • SQL • HTML/CSS/JavaScript
 
 ## 📜 Certifications
 
-| 🧾 Certification | Status | Delivered by | Platform | Link |
-|------------------|--------|---------------|----------|------|
-| CompTIA Security+ | ✅ Certified | Edoxi Training Center | CompTIA | [🔗 View](https://www.credly.com/badges/e84b2ae0-2e47-4e12-a510-cc27d2e3d2b3) |
-| CEH – Ethical Hacker | ✅ Certified | Edoxi Training Center | EC-Council | [🔗 View](https://www.credly.com/badges/2f44e875-038e-4a00-b25e-b3220fbd3ff2) |
-| Python Development | ✅ Completed | Bath Spa University | Study lab + Sololearn | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Python_Development.pdf) |
-| Web Development | ✅ Completed | Bath Spa University | Study lab + SoloLearn  | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Web_Development.pdf) |
-| ISO/IEC 27001 Fundamentals | ✅ Completed | Bath Spa + Alison | Alison Platform + Minerva| [🔗 View](https://alison.com/certification/check/7560610613473) |
-| Cyber Resilience & Digital Forensics | ✅ Completed | Bath Spa University | Minerva + LinkedIn   | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Cyber_Resilience_DF.pdf) |
-| AI for Cybersecurity | ✅ Completed | Great Learning | LinkedIn + Minerva Platform | [🔗 View](https://olympus.mygreatlearning.com/courses/128701/certificate) |
-| CompTIA CySA+ (Training) | ⏳ In Progress | Self-Study + Mentorship | CompTIA | [🔗 View](https://www.comptia.org/certifications/cybersecurity-analyst) |
+| 🧾 Certification | Status | Delivered by | Platform / Phase | Link |
+|------------------|--------|---------------|------------------|------|
+| **CompTIA Security+** | ✅ Certified | Edoxi Training Center | CompTIA | [🔗 View](https://www.credly.com/badges/e84b2ae0-2e47-4e12-a510-cc27d2e3d2b3) |
+| **CEH – Ethical Hacker** | ✅ Certified | Edoxi Training Center | EC-Council | [🔗 View](https://www.credly.com/badges/2f44e875-038e-4a00-b25e-b3220fbd3ff2) |
+| **Python Development** | ✅ Completed | Bath Spa University | *Study Lab (Pre-English Exam)* | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Python_Development.pdf) |
+| **Web Development** | ✅ Completed | Bath Spa University | *Study Lab (Pre-English Exam)* | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Web_Development.pdf) |
+| **ISO/IEC 27001 Fundamentals** | ✅ Completed | Bath Spa + Alison | *Minerva (Post-English Exam)* | [🔗 View](https://alison.com/certification/check/7560610613473) |
+| **Cyber Resilience & Digital Forensics** | ✅ Completed | Bath Spa University | *Minerva BSU (Official Student)* | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Cyber_Resilience_DF.pdf) |
+| **AI for Cybersecurity** | ✅ Completed | Great Learning | *Minerva + GreatLearning* | [🔗 View](https://olympus.mygreatlearning.com/courses/128701/certificate) |
+| **CompTIA CySA+ (Training)** | ⏳ In Progress | Self-Study + Mentorship | CompTIA Labs | [🔗 View](https://www.comptia.org/certifications/cybersecurity-analyst) |
 
 ---
 
