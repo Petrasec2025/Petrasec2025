@@ -58,8 +58,8 @@ Python • Bash • SQL • HTML/CSS/JavaScript
 | 💼 Project | Description | Link |
 |-----------|-------------|------|
 | 🔐 **PassShield Password Manager** | Custom Python-Tkinter app that stores passwords locally using JSON and hashing *(University Project)* | [Repo](https://github.com/Petrasec2025/passshield-manager) |
-| 🐍 **Python Vending Machine** | CLI-based Python vending system for logic practice *(University Project)* | [Repo](https://github.com/Petrasec2025/python-vending-machine) |
-| 📂 **PotterDB API Task** | REST API integration project using PotterDB *(University Task)* | [Repo](https://github.com/Petrasec2025/potterdb-api-task) |
+| 🐍 **Python Vending Machine** | CLI-based Python vending system for logic practice *(University Project)* | [Repo](https://github.com/Bath-Spa-Students/utility-app-Percyana552/tree/main) |
+| 📂 **PotterDB API Task** | REST API integration project using PotterDB *(University Task)* | [Repo](https://drive.google.com/file/d/1QpqkEr8zJ3x2h3kyxKokWQuTyWD90hdC/view?usp=sharing) |
 
 ---
 
@@ -83,8 +83,8 @@ Python • Bash • SQL • HTML/CSS/JavaScript
 | [🔧 CompTIA CySA+ Labs](https://github.com/Petrasec2025/cysa-labs) | Threat Detection & IR |
 | [🌐 Web Dev Portfolio](https://github.com/Petrasec2025/web-portfolio) | HTML/CSS/JS Projects |
 | [🔐 PassShield Password Manager](https://github.com/Petrasec2025/passshield-manager) | Python GUI with Encryption |
-| [🐍 Python Vending Machine](https://github.com/Petrasec2025/python-vending-machine) | CLI Python Logic Project |
-| [📂 PotterDB API Task](https://github.com/Petrasec2025/potterdb-api-task) | REST API Integration |
+| [🐍 Python Vending Machine](https://github.com/Bath-Spa-Students/utility-app-Percyana552/tree/main) | CLI Python Logic Project |
+| [📂 PotterDB API Task](https://drive.google.com/file/d/1QpqkEr8zJ3x2h3kyxKokWQuTyWD90hdC/view?usp=sharing) | REST API Integration |
 
 ---
 
