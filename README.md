@@ -57,7 +57,7 @@ Python • Bash • SQL • HTML/CSS/JavaScript
 
 | 💼 Project | Description | Link |
 |-----------|-------------|------|
-| 🔐 **PassShield Password Manager** | Custom Python-Tkinter app that stores passwords locally using JSON and hashing *(University Project)* | [Repo](https://github.com/Petrasec2025/passshield-manager) |
+| 🔐 **PassShield Password Manager** | Custom Python-Tkinter app that stores passwords locally using JSON and hashing *(University Project)* | [Repo](https://github.com/PassShield/Passshield-collab) & [Google drive link](https://drive.google.com/drive/folders/1AeBN33Mjp7SPsDn6GKJD0mJ3ZVlHvUMo?usp=sharing) |
 | 🐍 **Python Vending Machine** | CLI-based Python vending system for logic practice *(University Project)* | [Repo](https://github.com/Bath-Spa-Students/utility-app-Percyana552/tree/main) |
 | 📂 **PotterDB API Task** | REST API integration project using PotterDB *(University Task)* | [Repo](https://drive.google.com/drive/folders/1vs4JcFC1-TTaupusDF6GKmyAZQklLlgp?usp=sharing) |
 
@@ -82,7 +82,7 @@ Python • Bash • SQL • HTML/CSS/JavaScript
 | [🔒 CEH Labs – EC-Council](https://github.com/Petrasec2025/ceh-ilabs) | CEH Recon, Exploit & Labs |
 | [🔧 CompTIA CySA+ Labs](https://github.com/Petrasec2025/cysa-labs) | Threat Detection & IR |
 | [🌐 Web Dev Portfolio](https://github.com/Petrasec2025/web-portfolio) | HTML/CSS/JS Projects |
-| [🔐 PassShield Password Manager](https://github.com/Petrasec2025/passshield-manager) | Python GUI with Encryption |
+| [🔐 PassShield Password Manager](https://github.com/PassShield/Passshield-collab) (https://drive.google.com/drive/folders/1AeBN33Mjp7SPsDn6GKJD0mJ3ZVlHvUMo?usp=sharing)| Python GUI with Encryption |
 | [🐍 Python Vending Machine](https://github.com/Bath-Spa-Students/utility-app-Percyana552/tree/main) | CLI Python Logic Project |
 | [📂 PotterDB API Task](https://drive.google.com/drive/folders/1vs4JcFC1-TTaupusDF6GKmyAZQklLlgp?usp=sharing) | REST API Integration |
 
