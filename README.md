@@ -114,36 +114,37 @@ I'm **Petras**, a certified cybersecurity enthusiast with **1+ year of experienc
 
 ## 📜 Certifications
 
-| Certification | Status | Platform | View |
-|---------------|--------|----------|------|
+| Certification | Status | Institution / Platform | View |
+|---------------|--------|-------------------------|------|
 | **CompTIA Security+** | ✅ Certified | Edoxi / CompTIA | [🔗 View](https://www.credly.com/badges/e84b2ae0-2e47-4e12-a510-cc27d2e3d2b3) |
 | **CEH – Certified Ethical Hacker** | ✅ Certified | Edoxi / EC-Council | [🔗 View](https://www.credly.com/badges/2f44e875-038e-4a00-b25e-b3220fbd3ff2) |
-| **Python Development** | ✅ Completed | Bath Spa | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Python_Development.pdf) |
-| **Web Development** | ✅ Completed | Bath Spa | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Web_Development.pdf) |
+| **Python Development** | ✅ Completed | Bath Spa University | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Python_Development.pdf) |
+| **Web Development** | ✅ Completed | Bath Spa University | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Web_Development.pdf) |
 | **ISO/IEC 27001 Fundamentals** | ✅ Completed | Alison | [🔗 View](https://alison.com/certification/check/7560610613473) |
-| **Cyber Resilience & DF** | ✅ Completed | Bath Spa | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Cyber_Resilience_DF.pdf) |
+| **Cyber Resilience & DF** | ✅ Completed | Bath Spa University | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Cyber_Resilience_DF.pdf) |
 | **AI for Cybersecurity** | ✅ Completed | GreatLearning | [🔗 View](https://olympus.mygreatlearning.com/courses/128701/certificate) |
-| **CompTIA CySA+ (Training)** | ⏳ In Progress | Self-Study | [🔗 View](https://www.comptia.org/certifications/cybersecurity-analyst) |
+| **CompTIA CySA+ (Training)** | ⏳ In Progress | Self-Study / CompTIA | [🔗 View](https://www.comptia.org/certifications/cybersecurity-analyst) |
 
 ---
 
 ## 🎓 Education
 
 **🎓 BSc (Hons) Cybersecurity – Bath Spa University RAK**  
-📅 *Sep 2023 – Present*
+📅 *Sep 2023 – Present*  
+🏛️ Institution: Bath Spa University RAK | 📚 Platform: In-person + Labs
 
 | ✅ Completed Modules | ⏳ Ongoing / Upcoming |
 |----------------------|-----------------------|
-| Cybersecurity Fundamentals | Cybercrime Law & Ethics |
-| CodeLab | Securing IoT |
-| Digital Forensics | Cyber Offensive Security |
-| Computing & Databases | Cyber Defensive Security |
-| Web Development | Critical Infrastructure Protection |
-| Cyber Resilience | Final Year Research Project |
-| Artificial Intelligence | |
-| Intrusion Detection & Response | |
-| Network Administration | |
-| Software Engineering | |
+| Cybersecurity Fundamentals – Bath Spa | Cybercrime Law & Ethics – Bath Spa |
+| CodeLab – Bath Spa | Securing IoT – Bath Spa |
+| Digital Forensics – Bath Spa | Cyber Offensive Security – Bath Spa |
+| Computing & Databases – Bath Spa | Cyber Defensive Security – Bath Spa |
+| Web Development – Bath Spa | Critical Infrastructure Protection – Bath Spa |
+| Cyber Resilience – Bath Spa | Final Year Research Project – Bath Spa |
+| Artificial Intelligence – Bath Spa | |
+| Intrusion Detection & Response – Bath Spa | |
+| Network Administration – Bath Spa | |
+| Software Engineering – Bath Spa | |
 
 ---
 
@@ -177,5 +178,4 @@ I'm **Petras**, a certified cybersecurity enthusiast with **1+ year of experienc
 ---
 
 > 🛡️ *“Where Cybersecurity Meets the Future” – Petrasec*
-
 
