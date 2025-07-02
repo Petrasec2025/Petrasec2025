@@ -118,6 +118,8 @@ I'm **Petras**, a certified cybersecurity enthusiast with **1+ year of experienc
 |---------------|--------|-------------------------|------|
 | **CompTIA Security+** | ✅ Certified | Edoxi / CompTIA | [🔗 View](https://www.credly.com/badges/e84b2ae0-2e47-4e12-a510-cc27d2e3d2b3) |
 | **CEH – Certified Ethical Hacker** | ✅ Certified | Edoxi / EC-Council | [🔗 View](https://www.credly.com/badges/2f44e875-038e-4a00-b25e-b3220fbd3ff2) |
+| **MITRE ATT&CK Defender (MAD)** | ✅ Completed | MITRE | [🔗 View](https://www.linkedin.com/posts/petras-cyber_mitre-attck-defender-mad-certification-activity-7162388392702898176-p6Q3) |
+| **TryHackMe – SOC Level 1** | ✅ Completed | TryHackMe | [🔗 View](https://tryhackme.com/p/Petras20) |
 | **Python Development** | ✅ Completed | Bath Spa University | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Python_Development.pdf) |
 | **Web Development** | ✅ Completed | Bath Spa University | [🔗 View](https://github.com/Petrasec2025/certificates/blob/main/Web_Development.pdf) |
 | **ISO/IEC 27001 Fundamentals** | ✅ Completed | Alison | [🔗 View](https://alison.com/certification/check/7560610613473) |
@@ -145,6 +147,12 @@ I'm **Petras**, a certified cybersecurity enthusiast with **1+ year of experienc
 | Intrusion Detection & Response – Bath Spa | |
 | Network Administration – Bath Spa | |
 | Software Engineering – Bath Spa | |
+
+**📘 Ongoing Learning (Online Platforms)**
+
+| Course | Platform | Link |
+|--------|----------|------|
+| Cyber Incident Response & Digital Forensics | LinkedIn Learning | [🔗 View](https://www.linkedin.com/learning/cyber-incident-response-digital-forensics) |
 
 ---
 
