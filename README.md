@@ -1,9 +1,10 @@
 # 👋 Hey there, I'm Petras Guilherme Kulyumba
 
-🎯 **Cybersecurity Enthusiast | SOC Analyst (Blue Team) | Junior Penetration Tester (Red Team)**  
-📍 Based in Ajman, UAE | 🌐 Open to Remote, Hybrid & On-site Roles  
-📩 Email: petrasec.cyber@gmail.com | 📱 +971544560861 / +971503258953  
-🔗 [LinkedIn](https://www.linkedin.com/in/petras-cyber) | [GitHub](https://github.com/Petrasec2025) | [TryHackMe](https://tryhackme.com/p/PetrasCyber)
+🎯 **Cybersecurity Professional | SOC Analyst (Blue Team) | Junior Penetration Tester (Red Team)**  
+📍 Ajman, UAE | 🌐 Open to Remote, Hybrid & On-site Roles  
+📩 Email: petrasec.cyber@gmail.com  
+📱 WhatsApp (for work): +971544560861 | 📞 Call: +971503258953  
+🔗 [LinkedIn](https://www.linkedin.com/in/petras-cyber) • [GitHub](https://github.com/Petrasec2025) • [TryHackMe](https://tryhackme.com/p/PetrasCyber)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Petrasec2025&color=blueviolet)
 
@@ -11,124 +12,137 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm Petras, a passionate and certified cybersecurity professional blending practical skills in **ethical hacking**, **SOC operations**, and **penetration testing**. With 2+ years of experience in **lab environments** and **hands-on simulations**, I focus on helping teams detect threats, secure networks, and build resilient systems.
+Hi, I’m **Petras**, a certified and hands-on **cybersecurity enthusiast** with **1+ year of experience** in **CEH labs**, **CompTIA Security+ labs**, and active **SOC simulations** through TryHackMe and CompTIA Blue Team labs.
 
-🎓 I’m currently pursuing a **BSc in Cybersecurity** at Bath Spa University (RAK, UAE), while actively working on real-world projects and upskilling through **TryHackMe**, **Hack The Box**, and **EC-Council iLabs**.
+🎓 Currently pursuing a **BSc in Cybersecurity** at **Bath Spa University** (RAK, UAE).  
+🧠 Learning through **TryHackMe**, **Hack The Box**, **EC-Council iLabs**, and now starting **CompTIA CySA+** labs to deepen SOC Analyst skills.
 
-⚡ **Next Step?** I’m beginning **CompTIA CySA+ training** to sharpen my skills as a SOC Analyst — diving deeper into **threat detection**, **incident response**, and **hands-on security operations** to stand out in today’s competitive job market.
+🧩 I’m passionate about building secure systems, analyzing cyber threats, and mentoring entry-level learners while I continue growing through **projects, labs, and certifications**.
 
-> 🔄 Waiting for EC-Council Lab access reactivation to complete CEH & SOC Analyst labs. Meanwhile, progressing through TryHackMe Blue/Red Team paths and launching new labs.
-
----
-
-## 🚀 Goals
-
-- 🔍 Land a **Junior SOC Analyst** or **Cybersecurity Analyst** role  
-- 🧪 Strengthen my **practical skills** with **CySA+ labs** and real-world simulations  
-- 🛠️ Offer **freelance services** (pen testing, awareness training, vulnerability scanning)  
-- 🎓 Support beginners in cybersecurity through **mentorship and advice**
+🚀 Now actively looking for **Junior SOC Analyst**, **Cybersecurity Analyst**, or **Penetration Tester** roles to gain real-world, hands-on experience.
 
 ---
 
-## 💼 My Toolbox
+## 🚀 Career Goals
 
-### ⚔️ Offensive Security
-- CEH Techniques • Web Pentesting (OWASP) • Enumeration • Exploitation • Privilege Escalation
-
-### 🛡️ Defensive Security
-- SOC Operations • SIEM (Splunk/ELK) • Log Analysis • Threat Detection (MITRE ATT&CK) • Forensics
-
-### 🧠 Programming & Scripting
-- Python (Automation, Malware Simulation)  
-- Bash (Linux basics)  
-- HTML/CSS/JavaScript/SQL (Web foundations)
-
-### 🧰 Tools & Platforms
-`Kali Linux` • `Burp Suite` • `Wireshark` • `Metasploit` • `Nmap` • `OWASP ZAP`  
-`TryHackMe` • `Hack The Box` • `LetsDefend` • `EC-Council Labs` • `VS Code` • `GitHub`
+- 🛡️ Join a **Cybersecurity or SOC Analyst team** to support real-time defense  
+- 🔍 Continue building expertise in **SIEM, threat detection & incident response**  
+- 🛠️ Take on **freelance security assessments** (VAPT, awareness training)  
+- 📺 Share knowledge via **YouTube**, GitHub, and **cybersecurity mentorship**
 
 ---
 
-## 🔬 Projects & Labs (Ongoing)
+## 🧰 Skills & Tools
 
-- 🟦 [SOC Alert Triage & SIEM Monitoring – TryHackMe](https://tryhackme.com/p/PetrasCyber)  
-  Practical log analysis & threat detection using simulated enterprise networks
+### 🛡️ Blue Team
+- SOC Monitoring • SIEM Tools (Splunk, ELK) • Log Analysis • MITRE ATT&CK  
+- Threat Detection • Digital Forensics • Incident Response & Recovery
 
-- 🟥 [Web Pentesting Lab (OWASP + Burp Suite)](https://github.com/Petrasec2025/web-vulnerability-lab)  
-  Identify and exploit web application vulnerabilities step-by-step
+### ⚔️ Red Team
+- CEH Methodologies • Web App Pentesting (OWASP Top 10) • Enumeration • Exploitation • Post-Exploitation
 
-- 🌐 [Network Vulnerability Scanning – Nmap & Wireshark](https://github.com/Petrasec2025/soc-labs)  
-  Network discovery, service fingerprinting, and real-time traffic capture
+### 💻 Programming
+- **Python** (malware simulation, automation) • **Bash** scripting  
+- **HTML/CSS/JS/SQL** – frontend & backend security foundations
 
-- 🐍 [Python-Based Malware Simulation (WIP)](https://github.com/Petrasec2025/python-malware-sim)  
-  Simulating reverse shells and AV evasion techniques for Red Team practice
+### 🧪 Platforms & Tools
+`Kali Linux` • `Wireshark` • `Burp Suite` • `Nmap` • `Metasploit` • `ZAP`  
+`TryHackMe` • `Hack The Box` • `LetsDefend` • `EC-Council iLabs` • `CompTIA Labs`  
+`Visual Studio Code` • `GitHub`
 
-- 🔄 EC-Council Labs (Pending Access Re-activation)  
-  CEH & SOC Labs: System hacking, firewall evasion, incident response, digital forensics
+---
+
+## 🔬 Projects & Labs
+
+### ✅ Finalized Projects
+
+| Project | Description | Link |
+|--------|-------------|------|
+| 🔐 **PassShield Password Manager** | Password vault with secure login system and hashing | [🔗 Repo](https://github.com/Petrasec2025/passshield-manager) |
+| 🐍 **Python Vending Machine** | Simple Python-based vending system (logic + CLI) | [🔗 Repo](https://github.com/Petrasec2025/python-vending-machine) |
+| 📂 **PotterDB API Task** | API integration project for a university database task | [🔗 Repo](https://github.com/Petrasec2025/potterdb-api-task) |
+
+---
+
+### 🔄 In Progress Projects & Labs
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| 🟦 **SOC Labs – TryHackMe** | Blue team training with SIEM, logs, IOCs | 🟡 1 month in progress |
+| 🔒 **CEH Labs – EC-Council iLabs** | Hands-on CEH v12 lab environment | 🟡 Completed training – labs in progress |
+| 🔧 **CompTIA CySA+ Labs** | Blue team operations, threat hunting, IR | 🟡 Training just started |
+| 🌐 **Web Development Portfolio** | Personal portfolio & frontend showcase | 🟡 Ongoing |
+
+---
+
+## 📌 Pinned Repositories
+
+- 🟦 [SOC Labs (TryHackMe Blue Team)](https://github.com/Petrasec2025/soc-labs) *(In Progress)*  
+- 🔒 [CEH Labs – EC-Council iLabs](https://github.com/Petrasec2025/ceh-ilabs) *(In Progress)*  
+- 🔧 [CompTIA CySA+ Labs](https://github.com/Petrasec2025/cysa-labs) *(Starting)*  
+- 🌐 [Web Dev Portfolio](https://github.com/Petrasec2025/web-portfolio) *(Ongoing)*  
+- 🔐 [PassShield Manager](https://github.com/Petrasec2025/passshield-manager) *(✅ Completed)*  
+- 🐍 [Python Vending Machine](https://github.com/Petrasec2025/python-vending-machine) *(✅ Completed)*  
+- 📂 [PotterDB API – University Task](https://github.com/Petrasec2025/potterdb-api-task) *(✅ Completed)*
 
 ---
 
 ## 📜 Certifications
 
-| 📘 Certification | Status | Provider |
-|------------------|--------|----------|
-| **CompTIA Security+** ![Badge](https://img.shields.io/badge/CompTIA-Security%2B-red) | ✅ Certified | CompTIA |
-| **Certified Ethical Hacker (CEH)** ![Badge](https://img.shields.io/badge/CEH-Ethical%20Hacker-blue) | ✅ Training Completed | EC-Council |
-| **Python Development** | ✅ | Edoxi |
-| **Web Development (HTML/CSS/JS)** | ✅ | Edoxi |
-| **ISO/IEC 27001 Fundamentals** | ✅ | Alison |
-| **Cyber Resilience & Digital Forensics** | ✅ | Bath Spa University |
-| **AI for Cybersecurity** | ✅ | Great Learning |
-| **CompTIA CySA+** | ⏳ *Starting Now* | TryHackMe + Course Training
+| Certification | Status | Provider |
+|---------------|--------|----------|
+| **CompTIA Security+** | ✅ Certified | CompTIA (via Edoxi) |
+| **Certified Ethical Hacker (CEH)** | ✅ Certified | EC-Council (via Edoxi) |
+| **Python Development** | ✅ Completed | Bath Spa University |
+| **Web Development (HTML/CSS/JS)** | ✅ Completed | Bath Spa University |
+| **ISO/IEC 27001 Fundamentals** | ✅ Completed | Alison |
+| **Cyber Resilience & Digital Forensics** | ✅ Completed | Bath Spa University |
+| **AI for Cybersecurity** | ✅ Completed | Great Learning |
+| **CompTIA CySA+** | ⏳ In Progress | CompTIA Labs + Mentorship
 
 ---
 
 ## 🎓 Education
 
-**BSc (Hons) Cybersecurity**  
-Bath Spa University – RAK Campus | *Sep 2023 – Present*  
-Modules: Cyber Resilience • AI for Security • Digital Forensics • Network Security • Secure Systems
+**🎓 BSc (Hons) Cybersecurity – Bath Spa University RAK**  
+📍 *Sep 2023 – Present*
+
+**Core Modules:**  
+Cybersecurity Fundamentals • CodeLab • Introduction to Computing • Digital Forensics • Computing & Databases (SQL)  
+Web Development • Cyber Resilience • Artificial Intelligence • Intrusion Analysis & Response • Network Administration  
+Cybercrime Law & Ethics • Software Engineering • Cyber Offensive & Defensive Security  
+Securing the Internet of Things • Critical Infrastructure Protection • Final Year Research Project
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Insights
 
-![Petras's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petrasec2025&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Petrasec2025&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Petrasec2025&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Petrasec2025&theme=radical)
 
 ---
 
-## 📌 Pinned Projects
+## 🌍 Languages
 
-✨ You can pin your favorite repositories at the top of your GitHub profile:  
-➡️ Go to [Your GitHub Repos](https://github.com/Petrasec2025?tab=repositories)  
-➡️ Click the 📌 icon next to:
-- `web-vulnerability-lab`
-- `soc-labs`
-- `python-malware-sim`
-- Any future project you want to highlight
+- 🇲🇿 **Portuguese** – Native  
+- 🇬🇧 **English** – Fluent  
+- 🧠 Currently learning: **Arabic**, **French**, **Spanish**, **Japanese**, **Chinese**, **German**, **Russian**
 
 ---
 
-## 🌐 Languages
+## 🤝 Let's Collaborate!
 
-- 🇲🇿 **Portuguese** (Native)  
-- 🇬🇧 **English** (Fluent)
+- ✅ Open to **Junior SOC / Cybersecurity Analyst** opportunities  
+- ✅ Available for **Freelance Security Projects (VAPT, awareness)**  
+- ✅ Providing **Mentorship** to students and beginners in cybersecurity
 
----
-
-## 🤝 Let's Connect
-
-🚀 I’m currently:
-- 💼 Looking for **Junior SOC/Cybersecurity roles** (Remote or UAE)  
-- 🛠️ Available for **freelance consulting / VAPT projects**  
-- 🎓 Offering **cybersecurity mentorship** to beginners and students
-
-📩 **Email**: petrasec.cyber@gmail.com  
-📱 **WhatsApp**: +971544560861 / +971503258953  
-🔗 **LinkedIn**: [linkedin.com/in/petras-cyber](https://www.linkedin.com/in/petras-cyber)
+📩 **Email:** petrasec.cyber@gmail.com  
+📱 **WhatsApp (Work):** +971544560861  
+📞 **Phone (Calls):** +971503258953  
+🔗 [LinkedIn](https://www.linkedin.com/in/petras-cyber)
 
 ---
 
-> 🛡️ “Where Cybersecurity Meets the Future” – *Petrasec*
+> 🛡️ *“Where Cybersecurity Meets the Future” – Petrasec*
+
