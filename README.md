@@ -94,7 +94,7 @@ I'm **Petras**, a certified cybersecurity enthusiast with **1+ year of experienc
 | **SOC Labs – TryHackMe** | Blue Team SOC simulations, alert triage, SIEM | [🔗 GitHub](https://github.com/Petrasec2025/soc-labs) |
 | **CEH Labs – EC-Council** | Reconnaissance, exploitation, post-exploitation | [🔗 GitHub](https://github.com/Petrasec2025/ceh-ilabs) |
 | **CompTIA CySA+ Labs** | Threat hunting, IR workflows, detection | [🔗 GitHub](https://github.com/Petrasec2025/cysa-labs) |
-| **Web Dev Portfolio** | Frontend portfolio for showcasing cyber & dev skills | [🔗 GitHub](https://github.com/Petrasec2025/web-portfolio) |
+| **Web Dev Portfolio** | Frontend portfolio for showcasing cyber & dev skills | [🔗 GitHub](https://github.com/Petrasec2025/Web-Dev-Portfolio) |
 
 ---
 
@@ -105,7 +105,7 @@ I'm **Petras**, a certified cybersecurity enthusiast with **1+ year of experienc
 | [🟦 SOC Labs](https://github.com/Petrasec2025/soc-labs) | Blue Team Exercises & SIEM |
 | [🔒 CEH Labs](https://github.com/Petrasec2025/ceh-ilabs) | CEH Recon, Exploit & Labs |
 | [🔧 CySA+ Labs](https://github.com/Petrasec2025/cysa-labs) | Threat Detection & IR |
-| [🌐 Web Dev Portfolio](https://github.com/Petrasec2025/web-portfolio) | HTML/CSS/JS Projects |
+| [🌐 Web Dev Portfolio](https://github.com/Petrasec2025/Web-Dev-Portfolio) | HTML/CSS/JS Projects |
 | [🔐 PassShield Password Manager](https://github.com/PassShield/Passshield-collab) | Python GUI + Encryption |
 | [🐍 Python Vending Machine](https://github.com/Bath-Spa-Students/utility-app-Percyana552/tree/main) | CLI Logic |
 | [📂 PotterDB API Project](https://drive.google.com/drive/folders/1vs4JcFC1-TTaupusDF6GKmyAZQklLlgp?usp=sharing) | REST API Task |
